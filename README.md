@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Knighthous3
 - 👀 I’m interested in decentralized chess 
-- 🌱 I’m currently learning Token Engineering 
+- 🌱 I’m currently learning Token Ecosystems 
 - 💞️ I’m looking to collaborate on Blockchain technology 
 - 📫 Reach me on knighthous3@gmail.com
 - 😄 Pronouns: ...
